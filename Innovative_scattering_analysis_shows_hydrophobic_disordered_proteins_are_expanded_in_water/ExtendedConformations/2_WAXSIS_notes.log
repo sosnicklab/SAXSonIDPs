@@ -1,0 +1,22 @@
+MD simulation:
+	Estimate for number of atoms in envelope = 26453 - will generate 393 simulation frames
+	Simulation time (ps)    = 206.5
+	Equilibration time (ps) = 10
+	Simulation system contained 4670 solute atoms and 120103 water molecules.
+	Added 4 Na+ to neutralize the simulation cell.
+
+SAXS/WAXS calculation:
+	Maximum q scattering vector [nm-1]:                   4
+	Number of solute and pure-sovlent simulation frames:  393
+	Simulation time discarded for equilibration (ps):     10
+	Correcting solvent density to [e/nm3]:                334
+	Number of q-points for spherical average:             Max{500, 0.20*(D*q)^2}  [D = diameter of envelope]
+	Distance of envelope from solute [nm]:                0.7
+	Maximum diameter of solute [nm]:                      17.1698
+	Number of atoms used for rotational fit:              1002
+	Buffer subtraction scheme:                            Total buffer intensity subtracted
+
+Guinier fit:
+	Rg [A] = 60.0924
+	For comparison: Rg(solute) [A] = 59.8977
+
